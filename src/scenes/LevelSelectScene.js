@@ -1,3 +1,4 @@
+import Phaser from 'phaser';
 import { levelConfig } from '../config/gameConfig.js';
 import { tilemapKeys } from '../config/assets.js';
 
