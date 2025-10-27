@@ -1,3 +1,4 @@
+import Phaser from 'phaser';
 import { assetPaths } from '../config/assets.js';
 
 export default class PreloadScene extends Phaser.Scene {

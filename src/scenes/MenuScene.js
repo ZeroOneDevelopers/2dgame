@@ -1,3 +1,4 @@
+import Phaser from 'phaser';
 import { audioKeys } from '../config/assets.js';
 import AudioManager from '../systems/AudioManager.js';
 
